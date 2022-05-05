@@ -1,7 +1,7 @@
 {
-    "name": "parcel-typescript-test",
+    "name": "parcel-typescript-pipeline",
     "version": "1.0.0",
-    "description": "",
+    "description": "TypeScript build pipeline with Parcel",
     "scripts": {
         "start": "parcel serve src/index.html --dist-dir dist/dev",
         "build": "parcel build src/index.html --dist-dir dist/build",
